@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"col-sm-10"
+			],
+			[
+				"clo",
+				"col-sm-offset-2"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"con",
+				"control-label"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"bold",
+				"border-left-color\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"baclk",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"sign",
+				"SignUp"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"te",
+				"text2"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"get",
+				"getElementbyId"
+			],
+			[
+				"backgroua",
+				"background-image"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"act",
+				"action\tAttr"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Bootstrap/horizontal_form.html",
+		"/D/Bootstrap/vertical_form.html",
+		"/D/Jquery/slider1.html",
+		"/D/Jquery/slider.css",
+		"/D/Bootstrap/gridsystem.html",
+		"/C/xampp/htdocs/cytocean1/index1.html",
+		"/D/Jquery/slider.html",
+		"/D/Jquery/wrap.html",
+		"/D/Jquery/empty.html",
+		"/D/Jquery/remove.html",
+		"/D/Jquery/clone.html",
+		"/D/Jquery/after.html",
+		"/D/Jquery/before.html",
+		"/D/Jquery/animate.html",
+		"/D/Jquery/slideToggle.html",
+		"/D/Jquery/fadeIn.html",
+		"/D/Jquery/slideUp.html",
+		"/D/Jquery/fadeOut.html",
+		"/D/Jquery/fadeToggle.html",
+		"/D/Jquery/fadeTo.html",
+		"/D/Jquery/sildeDown.html",
+		"/D/Jquery/toggle.html",
+		"/D/Jquery/show.html",
+		"/D/web D/video.html",
+		"/C/xampp/htdocs/cytocean1/feedback.html",
+		"/D/web D/CSS17.html",
+		"/C/xampp/htdocs/cytocean1/layout/styles/layout.css",
+		"/C/xampp/htdocs/cytocean1/index.html",
+		"/C/xampp/htdocs/cytocean1/login.php",
+		"/C/xampp/htdocs/cytocean1/pages/full-width.html",
+		"/C/xampp/htdocs/cytocean1/pages/gallery.html",
+		"/D/web D/CSS18.html",
+		"/C/xampp/htdocs/cytocean1/galaxy.html",
+		"/C/xampp/htdocs/cytocean1/pages/galaxy1.html",
+		"/C/xampp/htdocs/cytocean1/pages/feedback.html",
+		"/D/web D/c.html",
+		"/D/web D/JAVA1.html",
+		"/D/web D/JAVA2.html",
+		"/D/web D/JAVA3.html",
+		"/D/web D/JAVA4.html",
+		"/D/web D/JAVA4.js",
+		"/D/web D/JAVA5.html",
+		"/D/web D/JAVA6.html",
+		"/D/web D/JAVA7.html",
+		"/D/web D/JAVA8.html",
+		"/D/web D/JAVA9.html",
+		"/D/web D/JAVA10.html",
+		"/D/web D/JAVA11.html",
+		"/D/web D/JAVA12.html",
+		"/D/web D/JAVA13.html",
+		"/D/web D/JAVA14.html",
+		"/D/web D/JAVA15.html",
+		"/D/web D/JAVA16.html",
+		"/D/web D/JAVA17.html",
+		"/D/web D/JAVA18.html",
+		"/D/web D/JAVA19.html",
+		"/D/web D/JAVA20.html",
+		"/D/web D/JAVA21.html",
+		"/D/web D/CSS6a.css",
+		"/D/web D/CSS7.html",
+		"/D/web D/CSS8.html",
+		"/D/web D/CSS9.html",
+		"/D/web D/CSS10.html",
+		"/D/web D/CSS11.html",
+		"/D/web D/CSS12.html",
+		"/D/web D/CSS13.html",
+		"/D/web D/CSS14.html",
+		"/D/web D/CSS15.html",
+		"/D/web D/CSS15left.html",
+		"/D/web D/CSS16.html",
+		"/D/web D/CSS4.html",
+		"/D/web D/CSS6.html",
+		"/D/web D/CSS5.html",
+		"/D/web D/CSS3.html",
+		"/D/web D/CSS2.html",
+		"/C/xampp/htdocs/cytocean1/feedback.php",
+		"/D/Jquery/hide.html",
+		"/D/Jquery/css.html",
+		"/D/web D/index.css",
+		"/C/xampp/htdocs/woodworking/index.php",
+		"/C/xampp/htdocs/cytocean/index.html",
+		"/D/Jquery/jq.js",
+		"/D/Jquery/bgcolor.html",
+		"/D/web D/validation_form.js",
+		"/D/web D/validation_form.html",
+		"/D/web D/validation_email.html",
+		"/D/web D/validation.html",
+		"/C/xampp/htdocs/cytocean/loginy.php",
+		"/C/xampp/htdocs/cytocean/login.php",
+		"/C/xampp/htdocs/cytocean/feedback.php",
+		"/C/xampp/htdocs/PHP programs/insert1.php",
+		"/D/htdocs/cytocean/loginy.html",
+		"/C/xampp/htdocs/PHP programs/insert.html",
+		"/C/xampp/htdocs/PHP programs/login_new.html",
+		"/C/xampp/htdocs/cytocean/feedback.html",
+		"/C/xampp/htdocs/cytocean/loginy.html",
+		"/C/xampp/htdocs/cytocean/loginy_css.css",
+		"/C/xampp/htdocs/PHP programs/login.php",
+		"/D/web D/form.html",
+		"/D/web D/form.css",
+		"/D/feebk.html",
+		"/C/xampp/htdocs/PHP programs/registration",
+		"/C/xampp/htdocs/PHP programs/connect1.php",
+		"/C/xampp/htdocs/PHP programs/connect.php",
+		"/C/xampp/htdocs/cytocean/pages/full-width.html",
+		"/C/xampp/htdocs/cytocean/pages/gallery.html",
+		"/C/xampp/htdocs/food/index.html",
+		"/D/html/conditional_validation.html",
+		"/D/html/number_validation.html",
+		"/D/html/validation.html",
+		"/D/html/JAVA21.html",
+		"/D/html/JAVA20.html",
+		"/D/html/JAVA19.html",
+		"/D/html/JAVA18.html",
+		"/D/html/JAVA17.html",
+		"/D/html/JAVA16.html",
+		"/C/xampp/htdocs/PHP programs/final_class.php",
+		"/C/xampp/htdocs/PHP programs/final_function.php",
+		"/C/xampp/htdocs/PHP programs/private_modefier.php",
+		"/C/xampp/htdocs/PHP programs/protected_modefier.php",
+		"/C/xampp/htdocs/PHP programs/public_modefier.php",
+		"/C/xampp/htdocs/PHP programs/interface.php",
+		"/C/xampp/htdocs/cytocean/logout.php",
+		"/C/xampp/htdocs/cytocean/HomePage.php",
+		"/C/xampp/htdocs/PHP programs/loginy_css.css",
+		"/C/xampp/htdocs/cytocean/galaxy.html",
+		"/C/xampp/htdocs/cytocean/pages/sidebar-left.html",
+		"/C/xampp/htdocs/PHP programs/loginy.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galaxy.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\web D\\validation_email.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

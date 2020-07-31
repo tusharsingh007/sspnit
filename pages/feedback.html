@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css" media="screen">
+	*{
+		margin:0;
+		padding: 0;
+		box-sizing: border-box;
+		font-family: sans-serif;
+
+	}
+	body
+	{  
+		background-image: url("moon.jpg");
+	}
+
+    .main
+    {
+    	width: 500px;
+    	margin: 50px auto;
+    	border:3px solid blue;
+    	background-color: #E5E7E9;
+    	border-left: 40px solid black ;
+      border-right: 40px solid black;
+    }
+.info
+    {
+    	width: 100px;
+    	padding: 8px;
+    	background-color: #74A8DF;
+    	font-size: 20px;
+    	font-weight: bold;
+    	text-align: center;
+    	color: #fff;
+    	text-shadow:  1px 1px 2px #000; 
+    }
+    .form-box
+    {
+    	padding: 25px;
+
+    }
+    label
+    {
+    	color:navy;
+    	font-size: 20px;
+
+    }
+    .inp #msg-box
+    {
+    	width: 100px;
+    	padding: 10px;
+    	margin-bottom: 5px;
+    	border:2px solid #dc143c;
+    	border-radius: 5px;
+    	font-weight: bold;
+    	border-right: 20px solid #dc143c;
+    	border-left: 20px solid #dc143c;
+
+    }
+   
+   #msg-box
+   {
+   	resize: none;
+   	height: 80px;
+   }
+
+    .sub-btn
+    {
+    	width: 100px;
+    	padding:10px;
+    	margin-top: 5px;
+    	border:none;
+    	border-radius: 5px;background:linear-gradient(blue,#74A8DF);
+    	color:#fff;
+    	font-size: 20px;
+    	cursor: pointer;
+    }
+
+    .sub-btn:focus
+    {
+    	outline: none;
+    }
+    .sub-btn:hover
+    {
+    	background:linear-gradient(#74A8DF, #041C36);
+
+    }
+
+ 
+
+</style>
+
+</head>
+<body>
+   
+   <div class="main">
+   <div class="info"> Give Your Feedback</div>
+   <form action="feedback.php" method="post" name="form" class="form-box">
+   <label for="name">Name </label><br>
+   <input type="text" name="name" class="inp" placeholder="enter name" required><br>
+   <label for="email">Email ID</label><br>
+   <input type="email" placeholder="enter email" name="email" required><br>
+   <label for="phone">Phone</label><br>
+   <input type="tel" name="phone" class="inp" placeholder="enter phone no." required><br>
+   <label for="message">Message</label><br>
+   <textarea name="message"  id="msg-box" placeholder="enter your message here....."></textarea><br>
+   <input type="submit" name="submit" value="send" class="sub-btn">
+
+
+
+</body>
+</html>
